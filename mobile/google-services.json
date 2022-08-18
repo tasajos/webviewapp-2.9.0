@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383623287575",
+    "project_id": "tsf2022a",
+    "storage_bucket": "tsf2022a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383623287575:android:3d3a49e92005251dcf9d52",
+        "android_client_info": {
+          "package_name": "chakuy.tsf_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383623287575-qte86ln2mktafd496823g0a2p0ba0j81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDL3E4R5D5CI_oZCB7DZUi1xO_tc9DRI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383623287575-qte86ln2mktafd496823g0a2p0ba0j81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
